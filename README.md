@@ -1,1 +1,1 @@
-"# elastic-first-try" 
+# elastic-first-try"

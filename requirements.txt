@@ -1,3 +1,4 @@
 elasticsearch
 flask
 pandas
+flask-cors
